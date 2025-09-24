@@ -15,7 +15,7 @@
   <a href="mailto:tanakit.nut@gmail.com">
     <img src="https://img.shields.io/badge/📧_tanakit.nut@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/nutnutnutt">
+  <a href="https://github.com/Thanakritdev">
     <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <br/><br/>
@@ -128,7 +128,7 @@
 ### 💬 "Great products are built by great people working together"
 
 📧 **Email:** [tanakit.nut@gmail.com](mailto:tanakit.nut@gmail.com)  
-🧰 **GitHub:** [github.com/nutnutnutt](https://github.com/nutnutnutt)  
+🧰 **GitHub:** [github.com/nutnutnutt](https://github.com/Thanakritdev)  
 📍 **Address:** 13/13 Seri Nut Village (Soi 18), Soi On Nut 70/1,
 Sukhumvit Road 77, Prawet District, Bangkok 10250
 📞 **Phone:** 088-620-5044
