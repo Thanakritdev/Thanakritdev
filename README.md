@@ -128,7 +128,7 @@
 ### 💬 "Great products are built by great people working together"
 
 📧 **Email:** [tanakit.nut@gmail.com](mailto:tanakit.nut@gmail.com)  
-🧰 **GitHub:** [github.com/nutnutnutt](https://github.com/Thanakritdev)  
+🧰 **GitHub:** [github.com/Thanakritdev](https://github.com/Thanakritdev)  
 📍 **Address:** 13/13 Seri Nut Village (Soi 18), Soi On Nut 70/1,
 Sukhumvit Road 77, Prawet District, Bangkok 10250
 📞 **Phone:** 088-620-5044
