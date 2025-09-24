@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=nutnutnutt&style=flat-square&color=0EA5E9" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Thanakritdev&style=flat-square&color=0EA5E9" alt="Profile Views" />
 
 </div>
 
